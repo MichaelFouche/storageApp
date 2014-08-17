@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">storageApp</string>
+    <string name="hello_world">Enter text to save:</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Save text</string>
+    <string name="viewText">Previously saved text</string>
+</resources>
